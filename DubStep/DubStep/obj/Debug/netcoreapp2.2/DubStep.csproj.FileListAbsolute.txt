@@ -1,0 +1,11 @@
+C:\Users\charlesb\source\repos\DubStep\DubStep\bin\Debug\netcoreapp2.2\DubStep.deps.json
+C:\Users\charlesb\source\repos\DubStep\DubStep\bin\Debug\netcoreapp2.2\DubStep.runtimeconfig.json
+C:\Users\charlesb\source\repos\DubStep\DubStep\bin\Debug\netcoreapp2.2\DubStep.runtimeconfig.dev.json
+C:\Users\charlesb\source\repos\DubStep\DubStep\bin\Debug\netcoreapp2.2\DubStep.dll
+C:\Users\charlesb\source\repos\DubStep\DubStep\bin\Debug\netcoreapp2.2\DubStep.pdb
+C:\Users\charlesb\source\repos\DubStep\DubStep\obj\Debug\netcoreapp2.2\DubStep.csproj.CoreCompileInputs.cache
+C:\Users\charlesb\source\repos\DubStep\DubStep\obj\Debug\netcoreapp2.2\DubStep.AssemblyInfoInputs.cache
+C:\Users\charlesb\source\repos\DubStep\DubStep\obj\Debug\netcoreapp2.2\DubStep.AssemblyInfo.cs
+C:\Users\charlesb\source\repos\DubStep\DubStep\obj\Debug\netcoreapp2.2\DubStep.dll
+C:\Users\charlesb\source\repos\DubStep\DubStep\obj\Debug\netcoreapp2.2\DubStep.pdb
+C:\Users\charlesb\source\repos\DubStep\DubStep\obj\Debug\netcoreapp2.2\DubStep.csprojAssemblyReference.cache

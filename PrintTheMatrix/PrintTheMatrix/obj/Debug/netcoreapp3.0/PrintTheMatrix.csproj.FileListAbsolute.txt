@@ -1,0 +1,11 @@
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\bin\Debug\netcoreapp3.0\PrintTheMatrix.exe
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\bin\Debug\netcoreapp3.0\PrintTheMatrix.deps.json
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\bin\Debug\netcoreapp3.0\PrintTheMatrix.runtimeconfig.json
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\bin\Debug\netcoreapp3.0\PrintTheMatrix.runtimeconfig.dev.json
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\bin\Debug\netcoreapp3.0\PrintTheMatrix.dll
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\bin\Debug\netcoreapp3.0\PrintTheMatrix.pdb
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\obj\Debug\netcoreapp3.0\PrintTheMatrix.csprojAssemblyReference.cache
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\obj\Debug\netcoreapp3.0\PrintTheMatrix.AssemblyInfoInputs.cache
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\obj\Debug\netcoreapp3.0\PrintTheMatrix.AssemblyInfo.cs
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\obj\Debug\netcoreapp3.0\PrintTheMatrix.dll
+C:\Users\charlesb\source\repos\PrintTheMatrix\PrintTheMatrix\obj\Debug\netcoreapp3.0\PrintTheMatrix.pdb
